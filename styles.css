@@ -1,0 +1,15 @@
+.alignment{
+    float:right;
+    text-align:right;
+}
+.title{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.describe{
+    font-size:45px;
+}
+.blocktitle{
+    font-size:40px;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+}
