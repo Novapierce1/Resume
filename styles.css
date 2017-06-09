@@ -1,15 +1,89 @@
 .alignment{
-    float:right;
-    text-align:right;
+    float: right;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
 }
 .title{
     font-size: 60px;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
 }
 .describe{
-    font-size:45px;
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
 }
 .blocktitle{
-    font-size:40px;
-    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.dribble{
+    width: 5%;
+    height: 5%;
+    
+}
+.infoblock{
+    height: 250px;
+    width: 95%;
+    background-color: bisque;
+    margin: auto; 
+}
+.innerblock{
+    height: 200px;
+    width: 50%;
+    background-color: lightgray;
+    Float: right;
+    margin: 10px;
+    border: 2px solid black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center:
+}
+.sideinfo{
+    text-align: right;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.titleblock{
+    height: 300px;
+    width: 200px;
+    float: right;
+
+}
+.messagebox{
+   margin:auto;
+   width:50%;
+   border: 3px solid bisque;
+   padding: 5px;
+}
+.appleton{
+    border-bottom: 1px solid black;
+    width: 40%;
+    position: absolute;
+    right: 0px;
+    padding: 5px;
+}
+.parlux{
+    border-bottom: 1px solid black;
+    width: 40%;
+    right: 0px;
+    padding: 5px;
+}
+.fossil{
+    border-bottom: 1px solid black;
+    width: 40%;
+    padding: 5px;
+    position: absolute;
+    right:0px;
+}
+.michaels{
+    border-bottom: 1px solid black;
+    width: 40%;
+    padding: 5px;
+    right: 0px;
+}
+.images{
+    float: left; 
+    position: relative;
 }
