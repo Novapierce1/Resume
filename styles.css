@@ -67,7 +67,9 @@
 .titleblock{
     height: 300px;
     width: 200px;
-    float: right;
+    position: absolute;
+    left: 35em;
+    top: 6em;
 
 }
 .messagebox{
